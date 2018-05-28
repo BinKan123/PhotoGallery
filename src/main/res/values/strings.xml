@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoShow</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo_item">PhotoItemActivity</string>
+</resources>
